@@ -1,2 +1,2 @@
-# RevitLibExample
-An example of a simple library to instantiate buttons to Revit's ribbon UI and get the document scale from a file.
+# RevitCommon
+Some common Revit related functions, primarily focused on creating buttons in the UI and 
